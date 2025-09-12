@@ -16,6 +16,16 @@
 ./gradlew build
 ```
 
+подключена dev бд h2 по ссылке
+
+http://localhost:8080/h2-console/
+
+url:
+
+jdbc:h2:mem:testdb
+
+остальное дефолт
+
 Тех стек
 ==
 Java 21
